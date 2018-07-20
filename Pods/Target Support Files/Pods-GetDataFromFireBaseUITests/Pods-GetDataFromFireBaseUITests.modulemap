@@ -1,0 +1,6 @@
+framework module Pods_GetDataFromFireBaseUITests {
+  umbrella header "Pods-GetDataFromFireBaseUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
